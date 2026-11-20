@@ -8,7 +8,7 @@ const SITE_NAME = "Nadya's Portfolio";
 const ME = {
   name: "Nadya Ananda Putri",
   title: "Ilustrator & Pecinta Cerita Fantasi",
-  avatar: "img/profile.jpeg",
+  avatar: "profile.jpeg",
 
   // Kutipan singkat yang tampil besar di hero (boleh dikosongkan: "")
 quote: "Star-gazing Aster,\nwould I were the skies,\nTo gaze upon thee with a thousand eyes.",
